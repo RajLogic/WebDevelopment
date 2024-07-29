@@ -1,0 +1,41 @@
+body {
+
+    background-image: url(../images/japanese_bg.jpg);
+    background-repeat: no-repeat;
+    margin-top: 16xp;
+    margin-right: 280px;
+    margin-left: 160px
+        /* background-color: rgb(169, 191, 211); */
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(105, 163, 105);
+    font-size: 2xp;
+}
+
+h2 {
+    font-family: Helvetica, sans-serif;
+    color: rgb(105, 163, 105);
+    font-size: 2xp;
+}
+
+.odd {
+    color: green;
+}
+
+p {
+    font-size: 1rem;
+}
+
+.center {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+#underlined {
+    text-decoration: underline;
+}
