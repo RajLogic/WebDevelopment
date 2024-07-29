@@ -1,0 +1,18 @@
+h1 {
+    color: purple;
+    font-family: verdana;
+}
+
+h2 {
+    color: orange;
+    font-family: Arial;
+}
+
+p {
+    color: green;
+    font-family: courier;
+}
+
+body {
+    background-color: #d1ddf1;
+}

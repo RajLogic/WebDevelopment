@@ -1,0 +1,22 @@
+h1 {
+    color: black;
+    font-family: oswald;
+}
+
+h2 {
+    color: green;
+    font-family: Roboto Mono;
+}
+
+p {
+    color: black;
+    font-family: Arial;
+}
+
+body {
+    background-color: rgb(184, 182, 182);
+}
+
+a {
+    color: red;
+}
