@@ -1,0 +1,21 @@
+section {
+    background-color: #ffffff;
+    margin-right: 1.5%;
+    margin-top: 1 rem;
+    padding: 20px;
+    width: 28%;
+    height: 600px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+body {
+    background-color: #dcdcdc;
+    height: 1.3em;
+    font-size: 1.1em;
+}
+
+div {
+    margin: auto;
+    width: 90%;
+}

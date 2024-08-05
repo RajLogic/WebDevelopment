@@ -1,0 +1,10 @@
+Storyboard
+
+
+1. List the different sections in the page
+- title
+- nav bar
+- heading
+- body
+- footer
+- 

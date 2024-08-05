@@ -1,0 +1,25 @@
+nav ul {
+    list-style-type: none;
+
+}
+
+nav li {
+    display: inline;
+    margin: 10px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #2f4f4f;
+    font-family: verdana, arial, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+
+}
+
+nav a:hover {
+    color: #23aefe;
+    background-color: #4b7e7e;
+    font-size: large;
+    font-weight: 1000;
+}
